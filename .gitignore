@@ -1,0 +1,30 @@
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Anaconda
+anaconda_projects/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Unity
+Library/
+Temp/
+Obj/
+*.csproj
+*.unityproj
+*.sln
+
+# Node / Three.js
+node_modules/
+.vscode/
+dist/
+.env
+
