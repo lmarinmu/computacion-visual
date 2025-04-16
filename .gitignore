@@ -10,6 +10,19 @@ __pycache__/
 *.pyc
 .env
 
+# Processing
+*.class
+*.jar
+*.exe
+*.log
+*.tmp
+*.svg
+*.zip
+*.mp4
+*.mov
+frames/
+
+
 # OS files
 .DS_Store
 Thumbs.db
