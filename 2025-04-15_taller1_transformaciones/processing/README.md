@@ -26,7 +26,7 @@ The animation uses `pushMatrix()` and `popMatrix()` to isolate transformations t
 
 ### 🎞 Preview
 
-![[triangleGif.gif]]
+![](triangleGif.gif)
 
 ## 🧑‍💻 Author
 
