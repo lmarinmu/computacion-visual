@@ -32,7 +32,7 @@ each transformation was defines as a function previously
 ## 🎞️ Output
 
 Below is a preview of the generated animation:
-![[animated_triangle.gif]]
+![](animated_triangle.gif)
 
 ## 🧑‍💻 Author
 
