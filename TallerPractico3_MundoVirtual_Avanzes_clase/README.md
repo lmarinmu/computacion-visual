@@ -15,9 +15,15 @@ Avance en clase del taller práctico #3: **Mundo estilo Minecraft con Three.js**
 Puedes ver el código y ejecutarlo en línea en CodeSandbox:  
 🔗 https://codesandbox.io/p/sandbox/three-js-forked-944tt2
 
+## Resultados
+
+![alt text](<Resultados/Captura de pantalla 2025-07-04 233227.png>)
+
+![alt text](<Resultados/Captura de pantalla 2025-07-04 233310.png>)
+
 ## Pendientes por implementar
 
 - Separación del código en módulos (`terreno.js`, `entidades.js`, etc.)
 - Inclusión de otras entidades naturales o criaturas simples.
-- Capturas del entorno y generación del informe final.
+- Capturas del entorno finalizado y generación del informe final.
 
