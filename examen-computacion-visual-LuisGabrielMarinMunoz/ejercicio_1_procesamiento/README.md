@@ -31,6 +31,6 @@ res_img = results[0].plot()
 
 ## Vista de Imágenes
 
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
+![alt text](resultados/image.png)
+![alt text](resultados/image-1.png)
+![alt text](resultados/image-2.png)
